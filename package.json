@@ -2,7 +2,7 @@
   "name": "LucBot",
   "version": "0.14.1",
   "description": "WhatsApp bot",
-  "zeeone": "main.js",
+  "main": "main.js",
   "directories": {
     "lib": "lib"
   },
@@ -68,15 +68,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc"
+    "url": "git+https://github.com/siegrin"
   },
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "Siegrin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeoneofc"
+    "url": "https://github.com/siegrin"
   },
-  "homepage": "https://github.com/zeeoneofc"
+  "homepage": "https://github.com/siegrin"
 }
